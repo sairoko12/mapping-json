@@ -1,0 +1,25 @@
+{
+  "name": "mapping-json",
+  "version": "0.0.1",
+  "description": "Only test --- Map string json with real object ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sairoko12/mapping-json.git"
+  },
+  "keywords": [
+    "gulp mocha", "chai", "gulp watch", "gulp istanbul", "javascript eval", "javascript new Function", "javascript scope"
+  ],
+  "author": "Cristian Benavides <sairoko16@gmail.com> (http://crisianbenavides.com/)",
+  "license": "OSL-3.0",
+  "bugs": {
+    "url": "https://github.com/sairoko12/mapping-json/issues"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
